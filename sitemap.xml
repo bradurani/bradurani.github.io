@@ -65,12 +65,18 @@
         <lastmod>2015-08-05T09:16:47-07:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://fractalbanana.com/blog/2015/09/05/improving-your-web-app-with-functional-object-oriented-design/
+        </loc>
+        <lastmod>2015-09-05T15:56:37-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://fractalbanana.com/blog/archives/</loc>
-        <lastmod>2015-08-05T09:16:47-07:00</lastmod>
+        <lastmod>2015-09-05T15:56:37-07:00</lastmod>
     </url>
     <url>
         <loc>http://fractalbanana.com/</loc>
-        <lastmod>2015-08-05T09:16:47-07:00</lastmod>
+        <lastmod>2015-09-05T15:56:37-07:00</lastmod>
     </url>
     <url>
         <loc>http://fractalbanana.com/robots.txt</loc>
