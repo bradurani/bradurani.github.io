@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ORMs | Fractal Banana]]></title>
+  <link href="http://fractalbanana.com/blog/categories/orms/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com/"/>
+  <updated>2015-09-12T21:18:39-07:00</updated>
+  <id>http://fractalbanana.com/</id>
+  <author>
+    <name><![CDATA[Brad Urani]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Turning the Tables: How to Get Along With Your Object-Relational Mapper]]></title>
+    <link href="http://fractalbanana.com/blog/2015/09/12/turning-the-tables-how-to-get-along-with-your-object-relational-mapper/"/>
+    <updated>2015-09-12T21:15:16-07:00</updated>
+    <id>http://fractalbanana.com/blog/2015/09/12/turning-the-tables-how-to-get-along-with-your-object-relational-mapper</id>
+    <content type="html"><![CDATA[<p>ORMs can be tricky to work with. They give us conveniece, but with significant trade-offs. I&rsquo;ve published a post a medium on how to improve your relationship with yours.</p>
+
+<script async src="https://static.medium.com/embed.js"></script>
+
+
+<p><a class="m-story" data-collapsed="true" href="https://medium.com/@bradurani/turning-the-tables-how-to-get-along-with-your-object-relational-mapper-e5d2d6a76573">Turning the Tables: How to Get Along with your Object-Relational Mapper</a></p>
+]]></content>
+  </entry>
+  
+</feed>
