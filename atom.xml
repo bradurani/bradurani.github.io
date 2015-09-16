@@ -4,7 +4,7 @@
   <title><![CDATA[Fractal Banana]]></title>
   <link href="http://fractalbanana.com/atom.xml" rel="self"/>
   <link href="http://fractalbanana.com/"/>
-  <updated>2015-09-12T21:18:39-07:00</updated>
+  <updated>2015-09-16T12:08:07-07:00</updated>
   <id>http://fractalbanana.com/</id>
   <author>
     <name><![CDATA[Brad Urani]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Carefully Composing Logic: Functional JavaScript Video]]></title>
+    <link href="http://fractalbanana.com/blog/2015/09/16/carefully-composing-logic-functional-javascript-video/"/>
+    <updated>2015-09-16T12:04:17-07:00</updated>
+    <id>http://fractalbanana.com/blog/2015/09/16/carefully-composing-logic-functional-javascript-video</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s my talk from the <a href='http://js.la'/>JS.LA meetup</a> on August 27th. This is easily my best performance ever. Enjoy!</p>
+
+<iframe src="https://player.vimeo.com/video/138163463" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<p> <p><a href="https://vimeo.com/138163463">Carefully Composing Logic: Functional JavaScript</a> from <a href="https://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Turning the Tables: How to Get Along With Your Object-Relational Mapper]]></title>
