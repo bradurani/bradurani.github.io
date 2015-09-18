@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Class Design | Fractal Banana]]></title>
+  <link href="http://fractalbanana.com/blog/categories/class-design/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com/"/>
+  <updated>2015-09-17T23:37:26-07:00</updated>
+  <id>http://fractalbanana.com/</id>
+  <author>
+    <name><![CDATA[Brad Urani]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Commands, Services and Logic: An Action-Based Class Design for Non-trivial Rails Applications]]></title>
+    <link href="http://fractalbanana.com/blog/2015/09/17/commands-services-and-logic-an-action-based-class-design-for-non-trivial-rails-applications/"/>
+    <updated>2015-09-17T23:32:13-07:00</updated>
+    <id>http://fractalbanana.com/blog/2015/09/17/commands-services-and-logic-an-action-based-class-design-for-non-trivial-rails-applications</id>
+    <content type="html"><![CDATA[<p>A video of my talk at the <a href="http://www.meetup.com/Santa-Barbara-on-Rails/events/224466080/">Santa Barbara Ruby on Rails Meetup</a>, where I demonstrate a novel class design I use for huge Ruby on Rails applications</p>
+
+<iframe src="http://livestream.com/accounts/12766867/events/4083173/videos/96143345/player?autoPlay=false&height=360&mute=false&width=640" width="640" height="360" frameborder="0" scrolling="no"></iframe>
+
+]]></content>
+  </entry>
+  
+</feed>
