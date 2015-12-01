@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Functional Programming | Fractal Banana]]></title>
+  <link href="http://fractalbanana.com/blog/categories/functional-programming/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com/"/>
+  <updated>2015-12-01T02:22:39-08:00</updated>
+  <id>http://fractalbanana.com/</id>
+  <author>
+    <name><![CDATA[Brad Urani]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Carefully Composing Logic: Functional JavaScript Video]]></title>
+    <link href="http://fractalbanana.com/blog/2015/09/16/carefully-composing-logic-functional-javascript-video/"/>
+    <updated>2015-09-16T12:04:17-07:00</updated>
+    <id>http://fractalbanana.com/blog/2015/09/16/carefully-composing-logic-functional-javascript-video</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s my talk from the <a href='http://js.la'/>JS.LA meetup</a> on August 27th. This is easily my best performance ever. Enjoy!</p>
+
+<iframe src="https://player.vimeo.com/video/138163463" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<p> <p><a href="https://vimeo.com/138163463">Carefully Composing Logic: Functional JavaScript</a> from <a href="https://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Improving Your Web App With Functional Object-Oriented Design]]></title>
+    <link href="http://fractalbanana.com/blog/2015/09/05/improving-your-web-app-with-functional-object-oriented-design/"/>
+    <updated>2015-09-05T15:45:53-07:00</updated>
+    <id>http://fractalbanana.com/blog/2015/09/05/improving-your-web-app-with-functional-object-oriented-design</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve cooked up a little post about barbecue, beer and object-oriented design just in time for labor day. This one has been incubating for a while and is the subject of a talk I&rsquo;ve been giving that hopfully should make it online soon. I&rsquo;ve published it on Medium, Enjoy!</p>
+
+<script async src="https://static.medium.com/embed.js"></script>
+
+
+<p><a class="m-story" data-collapsed="true" href="https://medium.com/@bradurani/improving-your-web-app-with-functional-object-oriented-design-5218f9732b74">Improving your Web App with Functional Object-Oriented Design</a></p>
+]]></content>
+  </entry>
+  
+</feed>

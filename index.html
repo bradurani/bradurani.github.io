@@ -1,1 +1,657 @@
-My Octopress Page is coming soon &hellip;
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Fractal Banana</title>
+  <meta name="author" content="Brad Urani">
+
+  
+  <meta name="description" content="I live coded a game recently using my new obsession: Elm If you haven&rsquo;t tried Elm, you&rsquo;re missing out. It&rsquo;s a purely functional &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://fractalbanana.com">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Fractal Banana" type="application/atom+xml">
+  <link href='http://fonts.googleapis.com/css?family=Chango' rel='stylesheet' type='text/css'>
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-46108733-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Fractal Banana</a></h1>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:fractalbanana.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2015/12/01/live-coding-building-a-game-in-elm/">Live Coding Building a Game in Elm</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-12-01T01:55:03-08:00" pubdate data-updated="true">Dec 1<span>st</span>, 2015</time>
+        
+           | <a href="/blog/2015/12/01/live-coding-building-a-game-in-elm/#disqus_thread"
+             data-disqus-identifier="http://fractalbanana.com/blog/2015/12/01/live-coding-building-a-game-in-elm/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I live coded a game recently using my new obsession: <a href="http://elm-lang.org">Elm</a></p>
+
+<p>If you haven&rsquo;t tried Elm, you&rsquo;re missing out. It&rsquo;s a purely functional reactive programing language that compiles to JavaScript for front end web development. There are 4 hours of video from on <a href="http://livecoding.tv">livecoding.tv</a> split into 4 parts:<br/>
+<a href="https://www.livecoding.tv/video/building-a-game-in-elm-pt-1a/">Part 1a</a><br/>
+<a href="https://www.livecoding.tv/video/building-a-game-in-elm-pt-1b/">Part 2b</a><br/>
+<a href="https://www.livecoding.tv/video/building-a-game-in-elm-2/">Part 2</a><br/>
+<a href="https://www.livecoding.tv/video/building-a-game-in-elm-3/">Part 3</a></p>
+
+<p>The finished program is on <a href="https://github.com/bradurani/connect-four-elm">GitHub</a>. The master branch is the completed program with a computer player AI using the minimax algorithm. branches <a href="https://github.com/bradurani/connect-four-elm/tree/part-1">part-1</a> and <a href="https://github.com/bradurani/connect-four-elm/tree/part-2">part-2</a> contain the code I wrote during the livecoding sessions</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2015/09/17/commands-services-and-logic-an-action-based-class-design-for-non-trivial-rails-applications/">Commands, Services and Logic: An Action-Based Class Design for Non-trivial Rails Applications</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-09-17T23:32:13-07:00" pubdate data-updated="true">Sep 17<span>th</span>, 2015</time>
+        
+           | <a href="/blog/2015/09/17/commands-services-and-logic-an-action-based-class-design-for-non-trivial-rails-applications/#disqus_thread"
+             data-disqus-identifier="http://fractalbanana.com/blog/2015/09/17/commands-services-and-logic-an-action-based-class-design-for-non-trivial-rails-applications/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>A video of my talk at the <a href="http://www.meetup.com/Santa-Barbara-on-Rails/events/224466080/">Santa Barbara Ruby on Rails Meetup</a>, where I demonstrate a novel class design I use for huge Ruby on Rails applications</p>
+
+<iframe src="http://livestream.com/accounts/12766867/events/4083173/videos/96143345/player?autoPlay=false&height=360&mute=false&width=640" width="640" height="360" frameborder="0" scrolling="no"></iframe>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2015/09/16/carefully-composing-logic-functional-javascript-video/">Carefully Composing Logic: Functional JavaScript Video</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-09-16T12:04:17-07:00" pubdate data-updated="true">Sep 16<span>th</span>, 2015</time>
+        
+           | <a href="/blog/2015/09/16/carefully-composing-logic-functional-javascript-video/#disqus_thread"
+             data-disqus-identifier="http://fractalbanana.com/blog/2015/09/16/carefully-composing-logic-functional-javascript-video/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Here&rsquo;s my talk from the <a href='http://js.la'/>JS.LA meetup</a> on August 27th. This is easily my best performance ever. Enjoy!</p>
+
+<iframe src="https://player.vimeo.com/video/138163463" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<p> <p><a href="https://vimeo.com/138163463">Carefully Composing Logic: Functional JavaScript</a> from <a href="https://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2015/09/12/turning-the-tables-how-to-get-along-with-your-object-relational-mapper/">Turning the Tables: How to Get Along With Your Object-Relational Mapper</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-09-12T21:15:16-07:00" pubdate data-updated="true">Sep 12<span>th</span>, 2015</time>
+        
+           | <a href="/blog/2015/09/12/turning-the-tables-how-to-get-along-with-your-object-relational-mapper/#disqus_thread"
+             data-disqus-identifier="http://fractalbanana.com/blog/2015/09/12/turning-the-tables-how-to-get-along-with-your-object-relational-mapper/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>ORMs can be tricky to work with. They give us conveniece, but with significant trade-offs. I&rsquo;ve published a post a medium on how to improve your relationship with yours.</p>
+
+<script async src="https://static.medium.com/embed.js"></script>
+
+
+<p><a class="m-story" data-collapsed="true" href="https://medium.com/@bradurani/turning-the-tables-how-to-get-along-with-your-object-relational-mapper-e5d2d6a76573">Turning the Tables: How to Get Along with your Object-Relational Mapper</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2015/09/05/improving-your-web-app-with-functional-object-oriented-design/">Improving Your Web App With Functional Object-Oriented Design</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-09-05T15:45:53-07:00" pubdate data-updated="true">Sep 5<span>th</span>, 2015</time>
+        
+           | <a href="/blog/2015/09/05/improving-your-web-app-with-functional-object-oriented-design/#disqus_thread"
+             data-disqus-identifier="http://fractalbanana.com/blog/2015/09/05/improving-your-web-app-with-functional-object-oriented-design/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I&rsquo;ve cooked up a little post about barbecue, beer and object-oriented design just in time for labor day. This one has been incubating for a while and is the subject of a talk I&rsquo;ve been giving that hopfully should make it online soon. I&rsquo;ve published it on Medium, Enjoy!</p>
+
+<script async src="https://static.medium.com/embed.js"></script>
+
+
+<p><a class="m-story" data-collapsed="true" href="https://medium.com/@bradurani/improving-your-web-app-with-functional-object-oriented-design-5218f9732b74">Improving your Web App with Functional Object-Oriented Design</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2015/03/14/launchcode-at-upside-promo-video/">LaunchCode at Upside Promo Video</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-03-14T05:11:10-07:00" pubdate data-updated="true">Mar 14<span>th</span>, 2015</time>
+        
+           | <a href="/blog/2015/03/14/launchcode-at-upside-promo-video/#disqus_thread"
+             data-disqus-identifier="http://fractalbanana.com/blog/2015/03/14/launchcode-at-upside-promo-video/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Here&rsquo;s a short video about me and two of our <a href="http://upsideadvisor.com">Upside</a> team members who were placed through <a href="https://www.launchcode.org/">LaunchCode</a>, a non-profit that places aspiring developers in their first jobs. I&rsquo;m so proud of these 2 young men and what we&rsquo;ve accomplished together.</p>
+
+<div id="fb-root"></div>
+
+
+<script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div class="fb-post" data-href="https://www.facebook.com/video.php?v=846359705425978" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/video.php?v=846359705425978">Post</a> by <a href="https://www.facebook.com/launchcodestl">Launchcode</a>.</div></div>
+
+
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2015/02/16/life-after-oo-functional-ruby/">Life After OO: Functional Ruby</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-02-16T20:57:17-08:00" pubdate data-updated="true">Feb 16<span>th</span>, 2015</time>
+        
+           | <a href="/blog/2015/02/16/life-after-oo-functional-ruby/#disqus_thread"
+             data-disqus-identifier="http://fractalbanana.com/blog/2015/02/16/life-after-oo-functional-ruby/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Video podcast on Functional Ruby for <a href="http://codecaststl.com/">CodeCast</a> by <a href="http://codecaststl.com/">STLTechTalk</a>. Big thank you to <a href="https://twitter.com/jjhammondmusic">JJ</a>, <a href="https://twitter.com/jjhammondmusic">Kevin</a> and <a href="https://twitter.com/n_f_e">Gus</a>. Sorry I cursed so much :)</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S1jxHf2TZGA" frameborder="0" allowfullscreen></iframe>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2015/02/16/test-driven-javascript-with-jasmine-video/">Test-Driven JavaScript With Jasmine Video</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-02-16T20:48:30-08:00" pubdate data-updated="true">Feb 16<span>th</span>, 2015</time>
+        
+           | <a href="/blog/2015/02/16/test-driven-javascript-with-jasmine-video/#disqus_thread"
+             data-disqus-identifier="http://fractalbanana.com/blog/2015/02/16/test-driven-javascript-with-jasmine-video/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>InfoQ has published a video of my presentation on JavaScript TDD with Jasmine from the 2014 Kansas City Developer Conference.</p>
+
+<h3><a href="http://www.infoq.com/presentations/jasmine-unit-tests-javascript">Watch on InfoQ >></a></h3>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/08/16/talking-ruby-on-rails-on-codecast/">Talking Ruby on Rails on CodeCast</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-08-16T11:54:39-07:00" pubdate data-updated="true">Aug 16<span>th</span>, 2014</time>
+        
+           | <a href="/blog/2014/08/16/talking-ruby-on-rails-on-codecast/#disqus_thread"
+             data-disqus-identifier="http://fractalbanana.com/blog/2014/08/16/talking-ruby-on-rails-on-codecast/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>On July 2nd I did this video podcast for <a href='http://stltechtalk.com/'>St. Louis Tech Talk</a>. The subject is mostly Ruby on Rails with some personal history and a discussion of <a href='http://www.launchcode.org/'>Launch Code</a> mixed in. There&rsquo;s no Ember talk despite what the title says, but don&rsquo;t worry, that will come later. Enjoy!</p>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/asvqXFcOQqo" frameborder="0" allowfullscreen></iframe>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/06/30/review-of-courseras-functional-programming-principles-in-scala/">Review of Coursera&#8217;s Functional Programming Principles in Scala</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-06-30T07:32:09-07:00" pubdate data-updated="true">Jun 30<span>th</span>, 2014</time>
+        
+           | <a href="/blog/2014/06/30/review-of-courseras-functional-programming-principles-in-scala/#disqus_thread"
+             data-disqus-identifier="http://fractalbanana.com/blog/2014/06/30/review-of-courseras-functional-programming-principles-in-scala/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>In case you’ve been asleep, functional programming is the new standard in modern programming language and application design. To those of us who have been using languages with functional features, such as Ruby, C# and JavaScript, it doesn’t seem at first glance like a major paradigm shift. This is especially true since functional design is not mutually exclusive to object-oriented design (in fact as the Scala language proves, they complement each other quite nicely). However when you apply functional principles universally using a functional language, it becomes clear that FP is a significant step forward from the Java-style object-heavy approach that it is slowly replacing.<br/>
+I signed up for Functional Programming Principles in Scala on Coursera to experience for myself the new secret sauce having heard that the course is outstanding. I’m happy to say that it was outstanding beyond my expectations. It’s a perfectly designed introduction and easily the most rewarding online class I’ve ever taken.<br/>
+Perhaps it shouldn’t be a surprise that the course is so good. It’s taught by Scala’s creator, Martin Odersky. What <em>is</em> surprising is that throughout the course, he talks very little about functional programming principles at a high level. Instead he teaches by example starting with simple recursive algorithm problems and ending with a really clever algorithmic game solver. In between we solved some classic computer science problems &ndash; problems I had solved before in school &ndash; using pure FP in a way that highlights where the functional solutions improve on the older procedural solutions. It’s in the progression of increasingly more involved assignments &ndash; which stepwise introduce language features and concepts &ndash; that the class succeeds so cleverly. One is never instructed to use pure functional programming, but rather arrives there naturally as one technique begets the next and the assignments grow in complexity. If you’re autodidactic like me, and generally wary of formal education, you’ll appreciate Professor Odersky’s subtle approach.</p>
+
+<p>So what did I learn?</p>
+
+<ul>
+<li>Recursion combined with immutable linked lists is the best way to do list operations</li>
+<li>Pattern matching is the hottest language feature since lambdas. They’re super-charged conditionals</li>
+<li>Lazy sequences and lazy evaluation are a breeze when they’re built into the language</li>
+<li>Often when I’m using a list, I should be using a set</li>
+<li>Tuples do serve a purpose when your language is strongly typed</li>
+<li>You can have strong typing without excessive boilerplate</li>
+<li>Tail call optimization makes a language more powerful (I’m looking at you, Ruby)</li>
+<li>Accessing instance variables from within methods is safe if they’re immutable</li>
+<li>Encapsulation with higher-order functions is cleaner than delegation</li>
+<li>Side-effect free code weakens the case for test doubles</li>
+</ul>
+
+
+<p>Whether you have or have not been exposed to functional programming, this is a great course. If you’ve ever studied recursive algorithms and enjoyed it, this course will rekindle your excitement by giving you new more powerful ways to solve old problems. Be prepared to fall in love with the Scala language: it fixes most of what’s wrong with Java and augments it with new capabilities that lead to simply better code. While it is not addressed in this course, I’m looking forward to seeing how functional programming improves concurrent operations in distributed environments. Fortunately that’s the subject of Dr. Odersky&rsquo;s <a href="https://www.coursera.org/course/reactive">next class</a> which you can bet I’ll be taking.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+      <a class="prev" href="/blog/page/2/">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2015/12/01/live-coding-building-a-game-in-elm/">Live Coding Building a Game in Elm</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2015/09/17/commands-services-and-logic-an-action-based-class-design-for-non-trivial-rails-applications/">Commands, Services and Logic: An Action-Based Class Design for Non-trivial Rails Applications</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2015/09/16/carefully-composing-logic-functional-javascript-video/">Carefully Composing Logic: Functional JavaScript Video</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2015/09/12/turning-the-tables-how-to-get-along-with-your-object-relational-mapper/">Turning the Tables: How to Get Along With Your Object-Relational Mapper</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2015/09/05/improving-your-web-app-with-functional-object-oriented-design/">Improving Your Web App With Functional Object-Oriented Design</a>
+      </li>
+    
+  </ul>
+</section>
+<section>
+  <h1>About Me</h1>
+<a href="https://plus.google.com/+BradUrani/?rel=author"><img src="/images/egypt.jpg"></a>
+<p>Brad Urani is Principal Software Engineering at <a href="https://procore.com">Procore</a>. He is an application and database architect specializing in agile test-driven development. He is a start-up veteran, team leader and project manager with previous experience in the social network, ecommerce, video game, industrial process control and educational software fields. Brad is a frequent speaker at software development user groups and conferences and teaches software development classes for <a href="http://launchcodestl.com"/>LaunchCode</a>.</p>
+</section>
+
+<a href="https://twitter.com/bradurani" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @bradurani</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<a href="http://www.linkedin.com/in/bradurani"><img src="http://s.c.lnkd.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png" width="160" height="25" border="0" alt="View Brad Urani's profile on LinkedIn"></a>
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-follow" data-annotation="bubble" data-height="24" data-href="//plus.google.com/109537541701758266702" data-rel="author"></div>
+
+<!-- Place this tag after the last widget tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<p><a href="https://github.com/bradurani"><img src="/images/github.jpg" alt="BradUrani on GitHub" style="border: 0; width: 24px; height:24px;"/> bradurani</a></p>
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2015 - Brad Urani -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'fractalbanana';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id; js.async = true;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
