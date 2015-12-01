@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Videos | Fractal Banana]]></title>
   <link href="http://fractalbanana.com/blog/categories/videos/atom.xml" rel="self"/>
   <link href="http://fractalbanana.com/"/>
-  <updated>2015-12-01T02:22:39-08:00</updated>
+  <updated>2015-12-01T02:34:02-08:00</updated>
   <id>http://fractalbanana.com/</id>
   <author>
     <name><![CDATA[Brad Urani]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Changing the Unchangeable: The Hows and Whys of Immutable Data Structures]]></title>
+    <link href="http://fractalbanana.com/blog/2015/12/01/changing-the-unchangeable-the-hows-and-whys-of-immutable-data-structures/"/>
+    <updated>2015-12-01T02:30:52-08:00</updated>
+    <id>http://fractalbanana.com/blog/2015/12/01/changing-the-unchangeable-the-hows-and-whys-of-immutable-data-structures</id>
+    <content type="html"><![CDATA[<p>The video from my <a href="http://rubyconf.org">RubyConf</a>  presentation is up. Enjoy!</p>
+
+<p>  <iframe width="560" height="315" src="https://www.youtube.com/embed/gTClDj9Zl1g" frameborder="0" allowfullscreen></iframe></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Carefully Composing Logic: Functional JavaScript Video]]></title>
