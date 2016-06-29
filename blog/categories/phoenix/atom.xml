@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Phoenix | Fractal Banana]]></title>
+  <link href="http://fractalbanana.com/blog/categories/phoenix/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com/"/>
+  <updated>2016-06-28T22:55:13-07:00</updated>
+  <id>http://fractalbanana.com/</id>
+  <author>
+    <name><![CDATA[Brad Urani]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Active Record vs. Ecto: A Tale of 2 ORMs]]></title>
+    <link href="http://fractalbanana.com/blog/2016/06/28/active-record-vs-ecto-a-tale-of-2-orms/"/>
+    <updated>2016-06-28T22:42:10-07:00</updated>
+    <id>http://fractalbanana.com/blog/2016/06/28/active-record-vs-ecto-a-tale-of-2-orms</id>
+    <content type="html"><![CDATA[<p>The video for my RailsConf 2016 talk is up on YouTube</p>
+
+<p>They bridge your application and your database. They&rsquo;re object-relational mappers, and no two are alike. Join us as we compare ActiveRecord from Rails with Ecto from Phoenix, a web framework for Elixir. Comparing the same app implemented in both, we&rsquo;ll see why even with two different web frameworks in two different programming languages, it&rsquo;s the differing ORM designs that most affect the result. This tale of compromises and tradeoffs, where no abstraction is perfect, will teach you how to pick the right ORM for your next project, and how to make the best of the one you already use.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_wD25uHx_Sw" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+</feed>
