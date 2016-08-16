@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Go | Fractal Banana]]></title>
+  <link href="http://fractalbanana.com/blog/categories/go/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com/"/>
+  <updated>2016-08-16T00:12:31-07:00</updated>
+  <id>http://fractalbanana.com/</id>
+  <author>
+    <name><![CDATA[Brad Urani]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Gitfile: A Package Manager for Git Repos]]></title>
+    <link href="http://fractalbanana.com/blog/2016/08/15/gitfile-a-package-manager-for-git-repos/"/>
+    <updated>2016-08-15T23:38:53-07:00</updated>
+    <id>http://fractalbanana.com/blog/2016/08/15/gitfile-a-package-manager-for-git-repos</id>
+    <content type="html"><![CDATA[<p>I just released the beta version of a new open-source project I put together
+over the weekend. <a href="https://github.com/bradurani/Gitfile">Gitfile</a> is a
+lightweight package manager for installing and updating software from git repos.
+It&rsquo;s great for installing odd things that live on GitHub and can&rsquo;t be installed
+with typical package managers.
+I built it because there are several things I wanted to include with my <a href="https://github.com/bradurani/bradrc">dotfiles</a>
+that can&rsquo;t be installed with brew, gem, npm, pip or any other common package
+managers. They&rsquo;re things like <a href="https://github.com/thewtex/tmux-mem-cpu-load">tmux plugins</a>, <a href="https://github.com/tpope/rbenv-ctags">rbenv plugins</a>, and <a href="https://github.com/olivierverdier/zsh-git-prompt">zsh plugins</a> that I want to
+install automatically and update with a single command.<br/>
+Gitfile is written in <a href="" title="https://golang.org/">Go</a> and I&rsquo;d love contributions and
+⭐️s. This was my first experience programming in Go. I haven&rsquo;t been that
+interested in learning it because I&rsquo;m so fond of the newer functional languages,
+but this type of cross-platform command line app seemed like the right use case.
+I got started in no time, and became productive more quickly than I ever have
+with any other language. For me, it&rsquo;s a limited use case tool because it&rsquo;s
+missing a lot of things I rely on when building big production apps. For
+utilities like this though, I&rsquo;d use it again.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -105,12 +105,24 @@
         <lastmod>2016-06-28T22:48:42-07:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://fractalbanana.com/blog/2016/08/15/ecto-vs-activerecord-video-from-polyconf/
+        </loc>
+        <lastmod>2016-08-16T00:08:00-07:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://fractalbanana.com/blog/2016/08/15/gitfile-a-package-manager-for-git-repos/
+        </loc>
+        <lastmod>2016-08-16T00:12:28-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://fractalbanana.com/blog/archives/</loc>
-        <lastmod>2016-06-28T22:48:42-07:00</lastmod>
+        <lastmod>2016-08-16T00:12:28-07:00</lastmod>
     </url>
     <url>
         <loc>http://fractalbanana.com/</loc>
-        <lastmod>2016-06-28T22:48:42-07:00</lastmod>
+        <lastmod>2016-08-16T00:12:28-07:00</lastmod>
     </url>
     <url>
         <loc>http://fractalbanana.com/robots.txt</loc>

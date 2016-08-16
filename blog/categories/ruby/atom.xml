@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Ruby, | Fractal Banana]]></title>
+  <title><![CDATA[Category: Ruby | Fractal Banana]]></title>
   <link href="http://fractalbanana.com/blog/categories/ruby/atom.xml" rel="self"/>
   <link href="http://fractalbanana.com/"/>
-  <updated>2016-06-28T22:55:13-07:00</updated>
+  <updated>2016-08-16T00:12:31-07:00</updated>
   <id>http://fractalbanana.com/</id>
   <author>
     <name><![CDATA[Brad Urani]]></name>
@@ -14,13 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Life After OO: Functional Ruby]]></title>
-    <link href="http://fractalbanana.com/blog/2015/02/16/life-after-oo-functional-ruby/"/>
-    <updated>2015-02-16T20:57:17-08:00</updated>
-    <id>http://fractalbanana.com/blog/2015/02/16/life-after-oo-functional-ruby</id>
-    <content type="html"><![CDATA[<p>Video podcast on Functional Ruby for <a href="http://codecaststl.com/">CodeCast</a> by <a href="http://codecaststl.com/">STLTechTalk</a>. Big thank you to <a href="https://twitter.com/jjhammondmusic">JJ</a>, <a href="https://twitter.com/jjhammondmusic">Kevin</a> and <a href="https://twitter.com/n_f_e">Gus</a>. Sorry I cursed so much :)</p>
+    <title type="html"><![CDATA[Ecto vs. ActiveRecord Video From PolyConf]]></title>
+    <link href="http://fractalbanana.com/blog/2016/08/15/ecto-vs-activerecord-video-from-polyconf/"/>
+    <updated>2016-08-15T23:33:19-07:00</updated>
+    <id>http://fractalbanana.com/blog/2016/08/15/ecto-vs-activerecord-video-from-polyconf</id>
+    <content type="html"><![CDATA[<p>I was recently honored to be invited to speak at <a href="http://polyconf.com/">PolyConf</a> in Poznań, Poland. It was the best conference I&rsquo;ve ever attended. If you ever get a chance, go to this one.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S1jxHf2TZGA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/96YwY7Lld0Q" frameborder="0" allowfullscreen></iframe>
 
 ]]></content>
   </entry>

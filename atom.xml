@@ -4,7 +4,7 @@
   <title><![CDATA[Fractal Banana]]></title>
   <link href="http://fractalbanana.com/atom.xml" rel="self"/>
   <link href="http://fractalbanana.com/"/>
-  <updated>2016-06-28T22:55:13-07:00</updated>
+  <updated>2016-08-16T00:12:31-07:00</updated>
   <id>http://fractalbanana.com/</id>
   <author>
     <name><![CDATA[Brad Urani]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Gitfile: A Package Manager for Git Repos]]></title>
+    <link href="http://fractalbanana.com/blog/2016/08/15/gitfile-a-package-manager-for-git-repos/"/>
+    <updated>2016-08-15T23:38:53-07:00</updated>
+    <id>http://fractalbanana.com/blog/2016/08/15/gitfile-a-package-manager-for-git-repos</id>
+    <content type="html"><![CDATA[<p>I just released the beta version of a new open-source project I put together
+over the weekend. <a href="https://github.com/bradurani/Gitfile">Gitfile</a> is a
+lightweight package manager for installing and updating software from git repos.
+It&rsquo;s great for installing odd things that live on GitHub and can&rsquo;t be installed
+with typical package managers.
+I built it because there are several things I wanted to include with my <a href="https://github.com/bradurani/bradrc">dotfiles</a>
+that can&rsquo;t be installed with brew, gem, npm, pip or any other common package
+managers. They&rsquo;re things like <a href="https://github.com/thewtex/tmux-mem-cpu-load">tmux plugins</a>, <a href="https://github.com/tpope/rbenv-ctags">rbenv plugins</a>, and <a href="https://github.com/olivierverdier/zsh-git-prompt">zsh plugins</a> that I want to
+install automatically and update with a single command.<br/>
+Gitfile is written in <a href="" title="https://golang.org/">Go</a> and I&rsquo;d love contributions and
+⭐️s. This was my first experience programming in Go. I haven&rsquo;t been that
+interested in learning it because I&rsquo;m so fond of the newer functional languages,
+but this type of cross-platform command line app seemed like the right use case.
+I got started in no time, and became productive more quickly than I ever have
+with any other language. For me, it&rsquo;s a limited use case tool because it&rsquo;s
+missing a lot of things I rely on when building big production apps. For
+utilities like this though, I&rsquo;d use it again.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ecto vs. ActiveRecord Video From PolyConf]]></title>
+    <link href="http://fractalbanana.com/blog/2016/08/15/ecto-vs-activerecord-video-from-polyconf/"/>
+    <updated>2016-08-15T23:33:19-07:00</updated>
+    <id>http://fractalbanana.com/blog/2016/08/15/ecto-vs-activerecord-video-from-polyconf</id>
+    <content type="html"><![CDATA[<p>I was recently honored to be invited to speak at <a href="http://polyconf.com/">PolyConf</a> in Poznań, Poland. It was the best conference I&rsquo;ve ever attended. If you ever get a chance, go to this one.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/96YwY7Lld0Q" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Active Record vs. Ecto: A Tale of 2 ORMs]]></title>
@@ -305,57 +342,6 @@ There is life after inheritance. There’s more than OO. Now pass me that functi
     <content type="html"><![CDATA[<p>Internet marketing is deceptively difficult. While it’s true that all of your customers are only a click away, small businesses often discover that breaking their way into the search engine results pages and stealing clicks from their entrenched competitors is an insurmountable task. The truth is that search engine marketing leads to natural monopolies and there aren’t many alternative channels through which smaller retailers and media companies can stake out territory.</p>
 
 <h3><a href="http://techli.com/2013/12/the-truth-about-internet-marketing-part-1/">Read the full article at Techli.com >></a></h3>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Link Roundup #1]]></title>
-    <link href="http://fractalbanana.com/blog/2013/12/03/link-roundup-number-1/"/>
-    <updated>2013-12-03T16:43:29-08:00</updated>
-    <id>http://fractalbanana.com/blog/2013/12/03/link-roundup-number-1</id>
-    <content type="html"><![CDATA[<ul>
-<li><a href="http://www.telegraph.co.uk/technology/internet/10468112/The-internet-mystery-that-has-the-world-baffled.html">The Internet Mystery that has the World Baffled</a></li>
-<li><a href="http://venturebeat.com/2013/11/29/sentient-code-an-inside-look-at-stephen-wolframs-utterly-new-insanely-ambitious-computational-paradigm/">Sentient code: An inside look at Stephen Wolfram’s utterly new, insanely ambitious computational paradigm</a></li>
-<li><a href="http://ilearnasigoalong.blogspot.com/2013/10/efficient-techniques-for-fuzzy-and.html">Efficient Techniques for Fuzzy and Partial matching in MongoDB</a></li>
-<li><a href="http://www.joelonsoftware.com/articles/fog0000000069.html">Things You Should Never Do, Part I</a> &ndash; Classic post from 2000 by Joel Spolsky</li>
-</ul>
-
-
-<p>Great series on new paradigms in object-oriented and functional programming by Anthony Ferrara</p>
-
-<ul>
-<li><a href="http://blog.ircmaxell.com/2013/09/beyond-design-patterns.html">Beyond Design Patterns</a></li>
-<li><a href="http://blog.ircmaxell.com/2013/11/beyond-inheritance.html">Beyond Inheritance</a></li>
-<li><a href="http://blog.ircmaxell.com/2013/11/beyond-object-oriented-programming.html">Beyond Object-Oriented Programming</a></li>
-<li><a href="http://blog.ircmaxell.com/2013/11/beyond-clean-code.html">Beyond Clean Code</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Curse of Choice in Programming Languages]]></title>
-    <link href="http://fractalbanana.com/blog/2013/11/30/the-curse-of-choice-in-programming-languages/"/>
-    <updated>2013-11-30T07:05:33-08:00</updated>
-    <id>http://fractalbanana.com/blog/2013/11/30/the-curse-of-choice-in-programming-languages</id>
-    <content type="html"><![CDATA[<p>There are too many programming languages. What I mean to say is there are too many <em>good</em> programming languages. Behavior psychologists have long warned about the curse of choice &ndash; the theory that too much choice causes anxiety and negatively affects decision making. We in the software world suffer from a severe form of that. We&rsquo;re literally drowning in options, all of which are good.</p>
-
-<p>Do you remember that myth from the late nineties about the great technology convergence where all software development converges onto one platform built with one programming language? Java was supposed to be the write once run anywhere language and we were all supposed to use it for everything. The first mobile apps were Java apps running on those old Nokia phones with the little green and black screens. Client-side web was supposed to move entirely to Java applets. Even software embedded into devices &ndash; like copy machines &ndash; was supposed to be written in Java, because we all know that managed memory code is great for copy machines. I can picture it now: the garbage collector kicks in while your copies are being made and they all come out smeared.</p>
-
-<p>Now the development landscape is more fragmented than ever and becoming more so. And that&rsquo;s a problem because it makes hiring and training significantly harder. The proliferation of new languages and frameworks is watering down the talent pool for the most popular languages, and among the new languages there seems to be no clear winner. Myth busted.</p>
-
-<!--more-->
-
-
-<p>Speaking of myths, there’s another one I’d like to dispel. It’s the one that says a good developer can pick up a new language over a weekend. Bologna. A good developer can pick up a new language <em>syntax</em> in a weekend, but learning the framework, conventions, tools, ecosystem, quirks and gotchas takes at least 6 months. That doesn’t mean a good developer can’t be productive after a few weeks, but being productive isn’t the same as language mastery and for some tasks, there&rsquo;s no substitute for language mastery.</p>
-
-<p>So here’s where we are for web: Ruby on Rails is great (possibly the best) but hardly cult-worthy. ASP.Net MVC (<del>which Rails plagiarized</del> which plagiarized Rails) is great. Yes it’s expensive, but the easy install and inter-op of the whole .Net environment saves time and money. Java is great and getting better, and has the biggest and best ecosystem of compatible libraries. The addition of lambdas in Java 8 will make it as good as C#. NodeJS is great, and really fast, despite the fact that JavaScript is flawed. The good front-end developers love it and that makes it appealing because you want to hire them. Python and Django are great, and most recent college grads have experience with Python. PHP is not great, but has some great frameworks, a mature toolset and a large pool of experienced developers from which to draw talent. Wordpress and Magento make it a legitimate choice, especially for marketing agencies.</p>
-
-<p>As if that weren’t enough, Scala, Clojure, Haskell, Go and Rust are all outstanding. Unfortunately, because they&rsquo;re outstanding people are going to start using them making the landscape even more divergent. Already sophisticated companies are adopting these new languages just because they&rsquo;re better than the old ones. Imagine that! Oh yeah, and why write plain vanilla JavaScript when you can use CoffeeScript, ClojureScript, TypeScript or Dart? Just shoot me now.</p>
-
-<p>Ok, ok I take it back. I’m all for the advancement of computer science and hope that languages continue to evolve and get better. I&rsquo;m teaching myself Scala purely for the joy of learning it. But don’t be fooled into thinking there’s not a downside to all of this. What do you do when that senior .Net architect role you’ve had open for 6 months needs to be filled and the best applicants are only experienced in PHP? What do you do when the start-up you’ve built using NodeJS can’t find talent because you live in a town where it has yet to make a dent in Java? When you teach a class to train aspiring developers so they can get their first jobs (as I’m doing for <a href="http://launchcodestl.com">LaunchCode</a>), what language do you teach them? (I went with .Net because that&rsquo;s what most of the job openings in St. Louis are for, but I’m having second thoughts).</p>
-
-<p>The steady march of progress in programming languages is inevitable and ultimately beneficial but I shudder when I think about the hiring situation 5 years from now when more languages and frameworks have proven their merit and made the splintering worse. If you have to pick a language for your project, my advice is this: consider the hiring situation before you choose something new and cutting edge. Geography matters too. St. Louis, for instance, has a strong Java community but only a handful of good Ruby folks whereas on the West Coast Ruby is probably the best choice. If you’re just learning to program, well, good luck. Pick the most popular language in your town and get your foot in the door somewhere, but continue to learn additional languages on your own time so that if you want to move you’re as mobile as possible. And speaking of mobile, well, you’ll have to learn that too, and guess what. Objective-C only runs on Apple products but you’ll have to learn it anyway if you want to stay on top. Choice is indeed a blessing and a curse.</p>
 ]]></content>
   </entry>
   
