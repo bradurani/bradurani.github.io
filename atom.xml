@@ -4,7 +4,7 @@
   <title><![CDATA[Fractal Banana]]></title>
   <link href="http://fractalbanana.com/atom.xml" rel="self"/>
   <link href="http://fractalbanana.com/"/>
-  <updated>2016-08-16T00:12:31-07:00</updated>
+  <updated>2017-05-03T00:50:40-07:00</updated>
   <id>http://fractalbanana.com/</id>
   <author>
     <name><![CDATA[Brad Urani]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My Ruby Story]]></title>
+    <link href="http://fractalbanana.com/blog/2017/05/03/my-ruby-story/"/>
+    <updated>2017-05-03T00:45:26-07:00</updated>
+    <id>http://fractalbanana.com/blog/2017/05/03/my-ruby-story</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s My Ruby Story, a 45 minute interview where I talk about how I started
+programming, my introduction to Ruby, California and why it&rsquo;s special, React.js
+and it&rsquo;s pitfalls and more!</p>
+
+<p><a href="https://devchat.tv/ruby-rogues/my-ruby-story-brad-urani"><strong>My Ruby Story, Brad Urani</strong></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Jaywalking in Traffic: Safe Migrations at Scale]]></title>
+    <link href="http://fractalbanana.com/blog/2017/05/03/jaywalking-in-traffic-safe-migrations-at-scale/"/>
+    <updated>2017-05-03T00:36:31-07:00</updated>
+    <id>http://fractalbanana.com/blog/2017/05/03/jaywalking-in-traffic-safe-migrations-at-scale</id>
+    <content type="html"><![CDATA[<p>This is the video from <a href="https://www.socallinuxexpo.org/scale/15x">Scale15x</a>. My
+talk starts at <strong>3:42:00</strong>. I talk about the challenges we face at <a href="https://procore.com">Procore</a>
+migrating our database at scale under heavy load, day in and day out. And about
+the gem I wrote, <a href="https://www.github.com/procore/handcuffs">handcuffs</a>, that is
+one of the tools that enables our team to accomplish this feat. Enjoy!</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mxmZv9xkc8s" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Building Huge Web Apps]]></title>
+    <link href="http://fractalbanana.com/blog/2017/05/03/building-huge-web-apps/"/>
+    <updated>2017-05-03T00:27:18-07:00</updated>
+    <id>http://fractalbanana.com/blog/2017/05/03/building-huge-web-apps</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s the video from my talk at <a href="https://2016.rubyconf.tw/">RubyConf Taiwan</a>,
+Building Huge Web Apps, Ruby on Rails at 1,000,000 Lines of Code</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0EpgXNbC6x4" frameborder="0" allowfullscreen></iframe>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Gitfile: A Package Manager for Git Repos]]></title>
@@ -298,50 +342,6 @@ There is life after inheritance. There’s more than OO. Now pass me that functi
 
 <iframe width="560" height="315" src="http://fractalbanana.com//www.youtube.com/embed/Yt4QypqFDyg" frameborder="0" allowfullscreen></iframe>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Truth About Internet Marketing Part 2: SEO Is a Scam]]></title>
-    <link href="http://fractalbanana.com/blog/2013/12/22/the-truth-about-internet-marketing-part-2-seo-is-a-scam/"/>
-    <updated>2013-12-22T14:32:48-08:00</updated>
-    <id>http://fractalbanana.com/blog/2013/12/22/the-truth-about-internet-marketing-part-2-seo-is-a-scam</id>
-    <content type="html"><![CDATA[<p>The second in a series of articles I wrote about Internet marketing has been published by Techli. Why (most) SEO is a scam.</p>
-
-<h3><a href="http://techli.com/2013/12/the-truth-about-internet-marketing-part-2-seo-is-a-scam/">Read the full article at Techli.com >></a></h3>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Link Roundup #2]]></title>
-    <link href="http://fractalbanana.com/blog/2013/12/13/link-roundup-number-2/"/>
-    <updated>2013-12-13T05:42:41-08:00</updated>
-    <id>http://fractalbanana.com/blog/2013/12/13/link-roundup-number-2</id>
-    <content type="html"><![CDATA[<ul>
-<li><a href="http://www.economist.com/news/21588893-tech-elite-will-join-bankers-and-oilmen-public-demonology-predicts-adrian-wooldridge-coming">The coming tech-lash</a> &ndash; The Economist</li>
-<li><a href="http://martinfowler.com/bliki/Datensparsamkeit.html">Datensparsamkeit
-</a> &ndash; Martin Fowler on data privacy</li>
-<li><a href="http://www.troyhunt.com/2013/12/micro-optimising-web-content-for.html">Micro optimising web content for unexpected, wild success
-</a> &ndash; Troy Hunt</li>
-<li><a href="http://www.kaushik.net/avinash/digital-marketing-analytics-ladder-step-by-step-success/">Digital Marketing And Analytics: Two Ladders For Magnificent Success
-</a> &ndash; Avinash Kaushik</li>
-<li><a href="http://arstechnica.com/information-technology/2013/12/gmail-blows-up-e-mail-marketing-by-caching-all-images-on-google-servers/#p3">Google blows up email marketing</a> &ndash; Ron Amadeo, Ars Technica</li>
-<li><a href="http://gbracha.blogspot.com/2011/01/maybe-monads-might-not-matter.html">Maybe Monads Might Not Matter</a> &ndash; Room 101</li>
-<li><a href="http://unqualified-reservations.blogspot.com/2007/08/whats-wrong-with-cs-research.html">What’s wrong with CS research</a> &ndash; Classic from 2007 by Mencius Moldbug</li>
-<li><a href="http://www.codinghorror.com/blog/2009/03/the-ugly-american-programmer.html">The Ugly American Programmer</a> &ndash; Classic from 2007 by Jeff Atwood</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Truth About Internet Marketing (Part 1)]]></title>
-    <link href="http://fractalbanana.com/blog/2013/12/13/the-truth-about-internet-marketing-part-1/"/>
-    <updated>2013-12-13T02:22:16-08:00</updated>
-    <id>http://fractalbanana.com/blog/2013/12/13/the-truth-about-internet-marketing-part-1</id>
-    <content type="html"><![CDATA[<p>Internet marketing is deceptively difficult. While it’s true that all of your customers are only a click away, small businesses often discover that breaking their way into the search engine results pages and stealing clicks from their entrenched competitors is an insurmountable task. The truth is that search engine marketing leads to natural monopolies and there aren’t many alternative channels through which smaller retailers and media companies can stake out territory.</p>
-
-<h3><a href="http://techli.com/2013/12/the-truth-about-internet-marketing-part-1/">Read the full article at Techli.com >></a></h3>
 ]]></content>
   </entry>
   

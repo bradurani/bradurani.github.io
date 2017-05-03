@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Rails | Fractal Banana]]></title>
   <link href="http://fractalbanana.com/blog/categories/rails/atom.xml" rel="self"/>
   <link href="http://fractalbanana.com/"/>
-  <updated>2016-08-16T00:12:31-07:00</updated>
+  <updated>2017-05-03T00:50:40-07:00</updated>
   <id>http://fractalbanana.com/</id>
   <author>
     <name><![CDATA[Brad Urani]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jaywalking in Traffic: Safe Migrations at Scale]]></title>
+    <link href="http://fractalbanana.com/blog/2017/05/03/jaywalking-in-traffic-safe-migrations-at-scale/"/>
+    <updated>2017-05-03T00:36:31-07:00</updated>
+    <id>http://fractalbanana.com/blog/2017/05/03/jaywalking-in-traffic-safe-migrations-at-scale</id>
+    <content type="html"><![CDATA[<p>This is the video from <a href="https://www.socallinuxexpo.org/scale/15x">Scale15x</a>. My
+talk starts at <strong>3:42:00</strong>. I talk about the challenges we face at <a href="https://procore.com">Procore</a>
+migrating our database at scale under heavy load, day in and day out. And about
+the gem I wrote, <a href="https://www.github.com/procore/handcuffs">handcuffs</a>, that is
+one of the tools that enables our team to accomplish this feat. Enjoy!</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mxmZv9xkc8s" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Building Huge Web Apps]]></title>
+    <link href="http://fractalbanana.com/blog/2017/05/03/building-huge-web-apps/"/>
+    <updated>2017-05-03T00:27:18-07:00</updated>
+    <id>http://fractalbanana.com/blog/2017/05/03/building-huge-web-apps</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s the video from my talk at <a href="https://2016.rubyconf.tw/">RubyConf Taiwan</a>,
+Building Huge Web Apps, Ruby on Rails at 1,000,000 Lines of Code</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0EpgXNbC6x4" frameborder="0" allowfullscreen></iframe>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Active Record vs. Ecto: A Tale of 2 ORMs]]></title>

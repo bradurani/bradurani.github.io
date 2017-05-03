@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: React | Fractal Banana]]></title>
+  <link href="http://fractalbanana.com/blog/categories/react/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com/"/>
+  <updated>2017-05-03T00:50:40-07:00</updated>
+  <id>http://fractalbanana.com/</id>
+  <author>
+    <name><![CDATA[Brad Urani]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My Ruby Story]]></title>
+    <link href="http://fractalbanana.com/blog/2017/05/03/my-ruby-story/"/>
+    <updated>2017-05-03T00:45:26-07:00</updated>
+    <id>http://fractalbanana.com/blog/2017/05/03/my-ruby-story</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s My Ruby Story, a 45 minute interview where I talk about how I started
+programming, my introduction to Ruby, California and why it&rsquo;s special, React.js
+and it&rsquo;s pitfalls and more!</p>
+
+<p><a href="https://devchat.tv/ruby-rogues/my-ruby-story-brad-urani"><strong>My Ruby Story, Brad Urani</strong></a></p>
+]]></content>
+  </entry>
+  
+</feed>
