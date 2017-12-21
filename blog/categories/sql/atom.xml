@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: SQL | Fractal Banana]]></title>
+  <link href="http://fractalbanana.com/blog/categories/sql/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com/"/>
+  <updated>2017-12-21T09:35:50-08:00</updated>
+  <id>http://fractalbanana.com/</id>
+  <author>
+    <name><![CDATA[Brad Urani]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rails Anti-Patterns: How Not to Design Your Database]]></title>
+    <link href="http://fractalbanana.com/blog/2017/12/21/rails-anti-patterns-how-not-to-design-your-database/"/>
+    <updated>2017-12-21T09:33:37-08:00</updated>
+    <id>http://fractalbanana.com/blog/2017/12/21/rails-anti-patterns-how-not-to-design-your-database</id>
+    <content type="html"><![CDATA[<p>My Talk from Windy City Rails 2017.</p>
+
+<p>When designing a database for your Ruby on Rails application, what looks like the best solution can be a trap. Join us as we expose these database anti-patterns. We’ll model shoes at a fictional shoe store and show both a naive design and more flexible alternatives. We’ll discuss how to represent trees, and see that the simplest solution is the slowest and hardest to query. We’ll explore scenarios where a polymorphic relationship looks like a good choice, but isn’t (and one where it is). Learn these pitfalls before falling into them, and save yourself from sloppy querying and poor performance.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hVaj1ZIKv4k" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+</feed>

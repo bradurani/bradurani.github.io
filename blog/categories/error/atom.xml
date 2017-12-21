@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Error | Fractal Banana]]></title>
+  <link href="http://fractalbanana.com/blog/categories/error/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com/"/>
+  <updated>2017-12-21T09:35:50-08:00</updated>
+  <id>http://fractalbanana.com/</id>
+  <author>
+    <name><![CDATA[Brad Urani]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Arcane Art of Error Handling]]></title>
+    <link href="http://fractalbanana.com/blog/2017/12/21/the-arcane-art-of-error-handling/"/>
+    <updated>2017-12-21T09:27:49-08:00</updated>
+    <id>http://fractalbanana.com/blog/2017/12/21/the-arcane-art-of-error-handling</id>
+    <content type="html"><![CDATA[<p>My Talk from RailsConf 2017, The Arcane Art of Error Handling. Enjoy!</p>
+
+<p>With complexity comes errors, and unexpected errors lead to unexpected unhappiness. Join us and learn how to add contextual data to errors, design error hierarchies, take charge of control flow, create re-usable error handlers, and integrate with error reporting solutions. We&rsquo;ll talk about recoverable versus irrecoverable errors and discuss how and how not to use exceptions. From internationalization to background jobs, we&rsquo;ll cover the gamut. Regardless of your Rail proficiency, you&rsquo;ll learn why expecting the unexpected makes for happier developers, happier businesses and happier users.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9R4wlyWBP1k" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+</feed>
